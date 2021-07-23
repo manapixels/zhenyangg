@@ -14,8 +14,8 @@ const zhenyang = {
     },
     techStack: {
         web3: {
-            code: ["solidity", "rust"],
-            integration: ["web3", "ethers"]
+            code: ["solidity"],
+            integration: ["ethers.js"]
         },
         frontEnd: {
             frameworks: ["react", "redux", "flutter"],
